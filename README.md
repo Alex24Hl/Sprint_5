@@ -7,7 +7,7 @@
     Папка содержащая ui-тесты на следующую функциональность:
    - **test_registration.py** - файл, где содержатся тесты на функциональность "Регистрация пользователя"
       - `test_successful_registration` - регистрация пользователя
-      - `test_invalid_email_registration` - регистрацияпользователя с email не по маске
+      - `test_invalid_email_registration` - регистрация пользователя с email не по маске
       - `test_registration_with_existing_user` - регистрация уже существующего пользователя    
    - **test_login.py** - файл, где содержится тест на функциональность "Login пользователя"
       - `test_successful_login` - авторизация пользователя                  
